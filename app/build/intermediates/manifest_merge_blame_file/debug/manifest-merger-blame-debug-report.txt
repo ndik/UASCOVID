@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.azhar.coronainfo"
+3    package="com.nursodik.coronainfo"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -36,9 +36,9 @@
 23-->C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:14:9-40
 24        android:usesCleartextTraffic="true" >
 24-->C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:15:9-44
-25        <activity android:name="com.azhar.coronainfo.activities.MainActivity" >
+25        <activity android:name="com.nursodik.coronainfo.activities.MainActivity" >
 25-->C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:16:9-22:20
-25-->C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:16:19-58
+25-->C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:16:19-81
 26            <intent-filter>
 26-->C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:17:13-21:29
 27                <action android:name="android.intent.action.MAIN" />

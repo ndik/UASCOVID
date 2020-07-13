@@ -47,7 +47,7 @@ INJECTED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\A
 INJECTED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:2:1-25:12
 INJECTED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:3:5-35
+		ADDED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -92,10 +92,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nu
 		ADDED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:14:9-40
 	android:usesCleartextTraffic
 		ADDED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:15:9-44
-activity#com.azhar.coronainfo.activities.MainActivity
+activity#com.nursodik.coronainfo.activities.MainActivity
 ADDED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:16:19-58
+		ADDED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:16:19-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\Nur\Info-COVID-19\Info-COVID-19\CoronaInfo\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
