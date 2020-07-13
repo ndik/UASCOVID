@@ -1,0 +1,4 @@
+#Mon Jul 13 09:03:18 ICT 2020
+base.0=C\:\\Users\\Nur\\Info-COVID-19\\Info-COVID-19\\CoronaInfo\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
